@@ -5,20 +5,12 @@ public class Main {
 
    public static void main(String[] args) {
 
-      Meal meal = new MealBuilder()
-        .setType("Burger")
-        .setSize("Large")
-        .setExtras("Cheese")
-        .setDrink("Cola")
-        .build();
+        MealDirector director = new MealDirector();
 
-      meal.displayMeal();
+        Meal meal = director.makeBurgerMeal();
+
+        meal.displayMeal();
     }
-
-   
-
- 
-
 
     
 }
