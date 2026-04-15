@@ -58,5 +58,5 @@ Drink: Cola
 | Asmaa Elaywi  |  Team Leader, GitHub Manager & README & UML diagram |
 | Bylasan      |Presentation & Media Specialist        |
 | Fatima alzhraa Aljnaidah  | Lead Developer & Technical Presenter        |
-|Ruba Alqam     | System Analyst & Concept Presenter |
+|Ruba Alkum     | System Analyst & Concept Presenter |
 
