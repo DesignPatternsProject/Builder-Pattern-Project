@@ -8,8 +8,10 @@ public class Main {
         MealDirector director = new MealDirector();
 
         Meal meal = director.makeBurgerMeal();
+        Meal meal2 = director.makePizzaMeal();
 
         meal.displayMeal();
+        meal2.displayMeal();
     }
 
     
