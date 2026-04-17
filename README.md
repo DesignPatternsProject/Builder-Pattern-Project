@@ -7,7 +7,8 @@ Creating meal objects using traditional constructors leads to long parameter lis
 The Builder Pattern allows constructing objects step by step, improving flexibility and code readability. It also makes it easier to create different meal variations without modifying existing code.
 ## UML Diagram
 <img width="1004" height="725" alt="Screenshot 2026-04-15 113139" src="https://github.com/user-attachments/assets/fd836689-380e-4c4a-b283-096d90631078" />
-## UML Design Explanation
+
+ ## UML Design Explanation
 
 The UML diagram represents the structure of the system using the Builder Design Pattern. It illustrates how different classes collaborate to construct a meal object step by step.
 
