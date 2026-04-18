@@ -92,7 +92,7 @@ Drink: Cola
 | Name          |  Responsibilities                     |
 | -----------   |  ------------------------------------ |
 | Asmaa Elaywi  |  Team Leader, GitHub Manager & README & UML diagram |
-| Bylasan      |Presentation & Media Specialist        |
+| Bylasan Hamdan     |Presentation & Media Specialist        |
 | Fatima alzhraa Aljnaidah  | Lead Developer & Technical Presenter        |
 |Ruba Alkum     | System Analyst & Concept Presenter |
 
